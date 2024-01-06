@@ -6,6 +6,7 @@ int main()
     if(5*X>=Y)
     {
         printf("YES");
+        
     }
     else
     {
