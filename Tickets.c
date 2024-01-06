@@ -6,10 +6,9 @@ int main()
     if(4*X<=1000)
     {
         printf("YES");
-        
     }
     else
-    {
-        printf("NO");
-    }
+   {
+       printf("NO");
+   }
 }
